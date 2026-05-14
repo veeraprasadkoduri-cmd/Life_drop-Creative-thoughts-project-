@@ -1,4 +1,5 @@
-# 🩸 LifeDrop — Blood Donation Team Veeraprasad
+# 🩸 LifeDrop — Blood Donation Team
+Developed by Veeraprasad
 
 > Built by **Tech Expert Solutions** | Production-Ready Full-Stack Application
 
