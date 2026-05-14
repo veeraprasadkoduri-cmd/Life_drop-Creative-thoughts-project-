@@ -249,4 +249,4 @@ docker compose up -d
 
 ## 📄 License
 
-MIT License — © 2024 Tech Expert Solutions
+MIT License — © 2026 Tech Expert Solutions
