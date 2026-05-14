@@ -1,4 +1,4 @@
-# 🩸 LifeDrop — Blood Donation Management System
+# 🩸 LifeDrop — Blood Donation Team Veeraprasad
 
 > Built by **Tech Expert Solutions** | Production-Ready Full-Stack Application
 
