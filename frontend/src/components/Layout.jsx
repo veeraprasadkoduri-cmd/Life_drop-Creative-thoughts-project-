@@ -56,7 +56,7 @@ export default function Layout({ children }) {
           </div>
           <div>
             <p className="font-display font-bold text-gray-900 leading-tight">LifeDrop</p>
-            <p className="text-xs text-gray-400 leading-tight">Blood Management</p>
+            <p className="text-xs text-gray-400 leading-tight">Developed by Veeraprasad</p>
           </div>
         </div>
       </div>
@@ -104,7 +104,7 @@ export default function Layout({ children }) {
           </svg>
           Sign Out
         </button>
-        <p className="text-center text-xs text-gray-400 mt-3">Tech Expert Solutions © 2024</p>
+        <p className="text-center text-xs text-gray-400 mt-3">Tech Expert Solutions © 2026</p>
       </div>
     </div>
   )
