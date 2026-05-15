@@ -48,7 +48,7 @@ export default function Login() {
             </div>
             <span className="text-white font-display font-bold text-2xl">LifeDrop</span>
           </div>
-          <p className="text-white/60 text-sm">by Tech Expert Solutions</p>
+          <p className="text-white/60 text-sm">Developed by Veeraprasad | Tech Expert Solutions</p>
         </div>
         <div className="relative z-10">
           <h1 className="text-white font-display font-bold text-4xl leading-tight mb-4">
@@ -66,7 +66,7 @@ export default function Login() {
             ))}
           </div>
         </div>
-        <p className="relative z-10 text-white/40 text-xs">© 2024 Tech Expert Solutions. All rights reserved.</p>
+        <p className="relative z-10 text-white/40 text-xs">© 2026 Tech Expert Solutions.veeraprasadportfolio.online All rights reserved.</p>
       </div>
 
       {/* Right Panel */}
